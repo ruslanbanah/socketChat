@@ -1,8 +1,8 @@
 # socketChat
 Socket chat
 
-###Install modules
+### Install modules
 ````yarn````
 
-###Start server
+### Start server
 ````yarn start````
