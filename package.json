@@ -6,12 +6,11 @@
   "author": "BanakhRuslan",
   "license": "MIT",
   "scripts": {
-    "start": "node server/index.js > log.tmp"
+    "start": "node server/index.js"
   },
   "dependencies": {
     "express": "^4.16.2",
     "http": "^0.0.0",
-    "log4js": "^2.3.11",
     "socket.io": "^2.0.4"
   }
 }
